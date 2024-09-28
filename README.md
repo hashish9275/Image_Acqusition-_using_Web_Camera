@@ -127,96 +127,22 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![Screenshot 2024-09-26 201025](https://github.com/user-attachments/assets/dca97b54-272f-4276-af0e-2ea4c4327fad)
+![hashish (3)](https://github.com/user-attachments/assets/646f270d-e85b-4778-9522-6142e3e9625b)
+
 
 ### ii) Display the video
 
-![Screenshot 2024-09-26 201231](https://github.com/user-attachments/assets/3ac81614-f052-47dd-ab77-cf0b59f00681)
+![image](https://github.com/user-attachments/assets/4b07e18e-4b96-4d25-a00b-98ad76f5e663)
+
 
 ### iii) Display the video by resizing the window
 
-![Screenshot 2024-09-26 201329](https://github.com/user-attachments/assets/5dd980ea-1d68-493b-8b75-452344fd854d)
+![image](https://github.com/user-attachments/assets/43313d9f-f5f1-4648-b257-89277b696f07)
 
 ### iv) Rotate and display the video
 
-![Screenshot 2024-09-26 201450](https://github.com/user-attachments/assets/2c048466-e83b-4d16-b475-a6f3f8bdbde3)
+![image](https://github.com/user-attachments/assets/096e3e88-2eb2-4f64-a7e1-aef4f07e6da2)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
 
-Anaconda - Python 3.7
-## Algorithm
-### Step 1:
-<br>
-
-### Step 2:
-<br>
-
-### Step 3:
-<br>
-
-### Step 4:
-<br>
-
-### Step 5:
-<br>
-
-## Program:
-``` Python
-### Developed By:
-### Register No:
-
-## i) Write the frame as JPG file
-
-
-
-
-## ii) Display the video
-
-
-
-
-## iii) Display the video by resizing the window
-
-
-
-
-## iv) Rotate and display the video
-
-
-
-
-
-
-
-
-
-```
-## Output
-
-### i) Write the frame as JPG image
-</br>
-</br>
-
-
-### ii) Display the video
-</br>
-</br>
-
-
-### iii) Display the video by resizing the window
-</br>
-</br>
-
-
-
-### iv) Rotate and display the video
-</br>
-</br>
-
-
-
-
-
-## Result:
-Thus the image is accessed from webcamera and displayed using openCV.
